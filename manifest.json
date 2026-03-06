@@ -1,0 +1,19 @@
+{
+  "name": "FatFruit",
+  "short_name": "FatFruit",
+  "theme_color": "",
+  "background_color": "#FAF7EF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772799359-favicon-iconsduckduckgocom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

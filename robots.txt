@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://fatfruitcasino-online.com/
+Sitemap: https://fatfruitcasino-online.com/sitemap.xml

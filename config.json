@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FAF7EF",
+            "lang-select-color": "#222829",
+            "bg-light": "#F6A13E",
+            "welcome-bonus-bg": "#FAF7EF",
+            "top-games-hover-fg": "#F6A13E",
+            "main-bg": "#ECE7D9",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#FFE45D",
+            "text-head": "#222829",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#FFE45D",
+            "yellow-button": "#000000",
+            "button-text": "#222829",
+            "main-button-text": "#ffffff",
+            "border-color": "#FFE45D",
+            "casino-cards": "#FAF7EF",
+            "bonus-border-head": "#222829",
+            "bonus-border": "#FFE45D",
+            "providers-back": "#F6A13E",
+            "faq-label": "#FAF7EF",
+            "bg-footer": "#F6A13E",
+            "copyright": "#e7e7d5",
+            "starColor": "#FFE45D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3990"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3991",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "FatFruit Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3992",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "FatFruit"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "FatFruit",
+                    "title": "FatFruit Casino: Welcome Package up to €7,000 + 550 FS, Tournaments, Fast Payouts",
+                    "description": "Welcome to FatFruit: thousands of slots, dealer‑led live shows, progressive jackpots, frequent promos, and convenient payments including crypto. Play, compete in tournaments, and unlock rewards every day.",
+                    "canonical": "fatfruitcasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3993",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "fatfruitcasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3994"
+                },
+                "hero": {
+                    "title": "FatFruit — Slots, Live Casino, Jackpots & Bonuses",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3995",
+                    "imageSizeModifier": 20,
+                    "imageYModifier": -7,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3996",
+                    "mobileImageSizeModifier": 10,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Welcome package up to €7,000 + 550 FS",
+                        "Thousands of slots with big multipliers",
+                        "Live casino with top shows and dealers",
+                        "Jackpots: progressive prizes and mega wins",
+                        "Instant crypto payouts, fast confirmations",
+                        "Easy payments: cards, e‑wallets, Interac",
+                        "VIP Club: cashback, boosters, personal offers"
+                    ],
+                    "advantagesAfterText": "We built FatFruit as a bright, modern gaming platform where convenience meets a huge entertainment choice. Everything is designed for smooth play—from bonuses and tournaments to fast payments and 24\/7 support. We focus on an easy start, clear rules, and a rich gaming experience.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "FatFruit App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3997",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "FatFruit App",
+                    "mobileGooglePlayImageTitle": "FatFruit App",
+                    "mobileIosImageTitle": "FatFruit App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About FatFruit",
+                        "description1": "We stand out with a full‑scale gaming hub: slots and live shows in one account. We shorten the road to wins with frequent promos, tournaments, and convenient payment options.\n",
+                        "items": [
+                            "Up to €7,000 bonus — start.",
+                            "Up to 550 FS — boost.",
+                            "Jackpots up to x10,000 — thrill."
+                        ],
+                        "description2": "FatFruit is our gaming space where everything starts with a bright interface and quick access to your favorite entertainment. We’ve built a large slot library so you can choose between classics, modern video slots, and popular bonus‑buy titles. If you enjoy the atmosphere of a real casino floor, our live casino runs with professional dealers and interactive show formats.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3998",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " We regularly launch network events with prize pools where every spin or bet becomes a chance to climb the leaderboard. For bigger thrills, we support progressive jackpots and curated collections with strong win potential. New players get a powerful start through our welcome package so you can find your favorite titles faster. Throughout the week, we run daily offers that add free spins, bonus percentages, or special missions. We love seasonal moments and holidays, so you’ll often see themed promos with vibrant rewards and limited‑time challenges. Inside your account, everything is organized to help you discover games by categories, providers, and mechanics. We support multiple deposit and withdrawal methods, including fiat and crypto, so you can choose what fits you best. For regular players, we run a loyalty program with tiers and privileges that unlock cashback, personal deals, and a bonus store. We value engagement, so we award points for activity and turn them into real advantages. Competition fans will enjoy tournaments and leaderboards where strategy matters alongside luck. We care about comfort and responsible play, so we provide easy tools for limits and self‑control you can enable in a few clicks. Our support team is available 24\/7 and helps with everything—from bonuses to payments and verification. We keep refreshing new releases so you can try fresh titles early. In the end, you get one unified place for gameplay, wins, and events, with a new reason to return every day.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "FatFruit: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Access & Play Rules: Comfort and Safety\n\n<\/h3>\n\n<p>\nAt FatFruit, we build a friendly environment with clear rules that protect players. To access gameplay, you must be of legal age and have a personal account with accurate details. We ask for real information so payouts stay smooth and fast. Account access is personal, so we recommend never sharing your login details. We support fair play, which is why any attempts to interfere with the platform or abuse bonuses are not allowed. To keep withdrawals protected, we may request identity verification before processing payouts. We take financial security seriously and monitor transactions to comply with safety rules. We help players avoid unwanted risks by offering responsible‑play tools and self‑control settings. You can set limits on deposits, bets, and play time to maintain a comfortable pace. We also offer time‑out options and self‑exclusion if you want a break. Our goal is simple: keep entertainment enjoyable and control fully in your hands.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess & Eligibility\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: access is for legal‑age players only.\n\n<\/li>\n            <li>• \nAccount: one player — one account with truthful details.\n<\/li>\n            <li>• \nVerification: identity \/ address checks to protect payouts.\n\n<\/li>\n            <li>• \nDevices: personal devices only, no shared access.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited Actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nNot allowed: multiple accounts, account sharing, impersonation.\n\n<\/li>\n            <li>• \nNot allowed: bonus manipulation, collusion, exploiting loopholes.\n\n<\/li>\n            <li>• \nNot allowed: hacking attempts, RNG\/software interference, scripts.\n\n<\/li>\n            <li>• \nRestricted: using payment methods not owned by the player.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible Play\n\n<\/h4>\n\n <ul>\n            <li>• \nResponsible Play\n\n\n<\/li>\n            <li>• \nTime‑out: short break for a chosen period.\n\n<\/li>\n            <li>• \nSelf‑exclusion: long‑term account access block.\n\n<\/li>\n            <li>• \nTracking: bet and finance history for self‑review.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Licensing & Data Protection: Trust at Every Step\n\n<\/h3>\n\n<p>\nWe operate as a licensed gaming platform and follow regulatory standards that ensure transparent rules and controlled processes. Our license confirms we meet requirements for fairness, financial responsibility, and player protection. We run operations within established frameworks and maintain procedures that help handle complaints and requests properly. We want you to clearly understand who we are and how our rules work, so key documents are always available in our policies and terms sections. We continuously update internal standards to match modern digital security requirements.\n\n<\/p>\n<br>\n\n\n<p>\nWe apply multi‑layer protection for accounts and payments, from secure sessions to monitoring suspicious activity. Data transmission between your device and our servers is protected by modern cryptographic protocols that prevent interception and tampering. We use secure authorization mechanisms and encourage additional protection options whenever available. We monitor login attempts and use behavioral signals to detect anomalies. As a result, your account stays protected even during high activity.\n<\/p>\n<br>\n<p>\nFinancial security is a priority, so we use KYC\/AML procedures that protect players and the payment infrastructure. Identity verification confirms account ownership and prevents fraud during withdrawals. We verify payment method ownership to reduce unauthorized transactions and strengthen reliability. When needed, we may request extra details to complete checks faster and keep payouts safe. Our processes are designed to balance convenience with strong protection.\n\n<\/p>\n<br>\n<p>\nOur privacy policy follows data minimization: we collect only what’s needed for registration, security, and financial operations. We do not sell personal data, and we use it strictly to provide the service, comply with rules, and improve quality. Access to data is restricted and granted only to staff and partners who need it to process operations. We store information in protected environments and apply organizational access controls. You can manage parts of privacy and notification settings in your account.\n\n<\/p>\n<br>\n<p>\nWe also focus on game fairness and result integrity by working with trusted content providers and using certified solutions. For slots and digital games, we rely on random number generation, while live games follow transparent rules with clearly tracked rounds. We maintain logging of key actions so any disputes can be resolved quickly and objectively. Our support and compliance processes work together to keep trust strong. All of this is built for one goal—so you can play calmly, confidently, and enjoyably.\n<\/p>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals at FatFruit: Fast, Convenient, Protected\n\n<\/h3>\n\n<p> \nWe designed payments at FatFruit to be flexible, so you can deposit and withdraw winnings using the method you prefer. In your account, you’ll see available options, current limits, and time estimates. Deposits are typically credited quickly so you can jump straight into games and bonuses. Withdrawals follow a clear flow: request, security checks, approval, and transfer to your chosen method. We protect transactions through payment‑method ownership checks and monitoring of suspicious activity. To speed up payouts, we recommend completing verification early and filling in your profile accurately. Timing depends on the method—crypto is especially fast, while bank methods can take longer on the provider’s side. We show every request status in your account so you always know what’s happening. Fees and conversion depend on the payment provider, and we keep the process as transparent as possible. If needed, support will help you choose the best option and reduce processing time. We focus on payment stability so your deposits and winnings stay protected.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #FFE45D;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant–5 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ MasterCard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant–10 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–24 hours<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–5 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity \/ MuchBetter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours (network-dependent)<\/td>\n    <\/tr>\n\n\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Paysafecard (deposit)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">-<\/td>\n    <\/tr>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–1 hour<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours (network-dependent)<\/td>\n    <\/tr>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–1 hour<\/td>\n    <\/tr>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>USDT (TRC20 \/ ERC20)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–15 minutes<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–1 hour<\/td>\n    <\/tr>\n\n\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum Withdrawal & Limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from €20 (or account‑currency equivalent).\n\n<\/li>\n            <li>• \nDaily maximum: up to €2,500 (depends on method and status).\n\n<\/li>\n            <li>• \nMonthly maximum: up to €15,000 (depends on method and status).\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Support: Fast, Clear, 24\/7\n\n<\/h3>\n\n<p>\nWe built our support to help you exactly when you need it. The quickest option is live chat, perfect for questions about bonuses, games, payments, and account settings. For more detailed requests, we offer email, where you can attach documents and receive a thorough response. Phone support is convenient when you want an immediate status update or step‑by‑step guidance. We keep communication friendly and easy to understand, without unnecessary bureaucracy. In most cases, we solve issues on the first contact because we can see your account status and transaction history. We assist with registration, login, verification, withdrawals, promo activation, and tournament participation. We also guide you through responsible‑play limits and notification settings. If a request needs extra checks, we keep you informed and share progress updates. We value your time, so chat focuses on speed while email focuses on detail. Support is available in multiple languages to keep everything comfortable. Our goal is simple: help you play confidently and feel supported at every step.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact Channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: for quick questions and instant help.\n\n<\/li>\n            <li>• \nEmail: for detailed cases and documents.\n\n<\/li>\n            <li>• \nPhone: for fast clarifications and guided support.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse Time & Quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–3 minutes to first reply.\n\n<\/li>\n            <li>• \nEmail: typically 2–6 hours with clear steps.\n\n<\/li>\n            <li>• \nPhone: quick connection during active line hours.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: primary communication channel.\n\n<\/li>\n            <li>• \nFrench: help with key topics and operations.\n\n<\/li>\n            <li>• \nAdditional: availability may expand depending on the channel.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at FatFruit",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit VIP Club: Tiers, Perks, and Rewards for Activity\n\n<\/h3>\n<p>\nOur loyalty program is designed so every bet and every spin brings real value. In the VIP Club, you earn loyalty points through gameplay and level up to unlock more privileges. We keep progress crystal clear: you see your current tier, what you need for the next one, and which rewards are available. The more you play, the more cashback, personal bonuses, and boosted offers you unlock. Inside the club, we run a bonus store where you can exchange points for free spins, bonus funds, and boosters. We also add missions that accelerate point earning and help you level up faster. Higher tiers come with priority support and tailored offers based on your favorite games. A key VIP feature is cashback, helping you recover a portion of losses and keep play comfortable. Rewards are credited transparently, and you can track bonus history in your account. Enrollment is automatic after registration—no long forms, no waiting. You simply play, and the system tracks your activity. The VIP Club turns your gameplay into a continuous stream of benefits.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Requirements\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto‑enrollment: VIP activates right after account creation.\n\n<\/li>\n            <li>• \nSingle account: points apply to one player profile only.\n\n<\/li>\n            <li>• \nVerification: helps speed up payouts and rewards.\n\n<\/li>\n            <li>• \nFair play: points are awarded for genuine gameplay activity.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers & How to Reach Them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFresh: starting tier right after signup.\n\n<\/li>\n            <li>• \nJuicy: earn 1,000 activity points.\n\n<\/li>\n            <li>• \nRipe: earn 5,000 activity points.\n\n<\/li>\n            <li>• \nSweet: earn 15,000 activity points.\n\n<\/li>\n\t    <li>• \nGolden: earn 50,000 activity points.\n\n<\/li>\n\t    <li>• \nRoyal: earn 120,000 activity points for top privileges.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & Perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback up to 25%: weekly loss return based on tier.\n\n<\/li>\n            <li>• \nReload bonuses 30%–100%: recurring deposit boosts with better terms at higher tiers.\n\n<\/li>\n            <li>• \nFree spins up to 350 FS: bundles via bonus store and missions.\n\n<\/li>\n            <li>• \nPersonal bonuses up to €1,000: tailored offers for favorite games.\n\n<\/li>\n\t    <li>• \nPriority support: faster VIP request handling.\n\n<\/li>\n\t    <li>• \nBonus store: exchange points for bonus cash, FS, and boosters.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Bonuses & Specials: More Play, More Chances, More Thrill\n\n<\/h3>\n\n<p>\nWe love giving players choice and constant excitement, so FatFruit is packed with game‑driven promotions and entertainment specials. Our welcome package delivers a powerful start and helps you feel the pace of wins quickly. Beyond the first steps, we run daily and weekly promos so there’s always a fresh reason to return. Slot fans can enjoy free‑spin series on popular titles and mechanics, plus missions that reward completed challenges. If you prefer live formats, we host special events around roulette, blackjack, and show games, where activity can unlock extra rewards. We support “Drops & Wins” style promos where prizes can land during gameplay and add thrill to every session. Tournament weeks bring a unique vibe: you collect points, climb the leaderboard, and earn rewards at period end. We often launch seasonal campaigns with themed quests, limited‑time offers, and festive rewards. For big goals, you can join jackpot events and curated progressive selections. We also run raffles with strong prize pools where participation is tied to activity. During the week, reload deals can appear to boost your deposit and extend your bankroll for more attempts. We keep rules clear: conditions, timeframes, and progress are visible in your account. You keep flexibility—choose promos that match your style. The more you engage, the more personal offers you unlock. Altogether, it feels like a living casino calendar where something exciting is always happening. Most importantly, every promo is built to give you more winning opportunities and more fun.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromos & Bonuses \n<\/h4>\n\n <ul>\n            <li>• \nWelcome package up to €7,000 + 550 FS: multi‑step starter boost for bankroll growth.\n\n<\/li>\n            <li>• \nDaily free spins up to 50 FS: scheduled FS series on selected slots.\n\n<\/li>\n            <li>• \nReload bonuses 30%–75%: recurring deposit boosts to keep you playing.\n\n<\/li>\n            <li>• \nWeekly cashback up to 25%: a promo‑period return on a portion of losses.\n\n<\/li>\n\t    <li>• \nDrops & Wins: instant drop prizes during spins\/bets.\n\n<\/li>\n\t    <li>• \nSlot tournaments with prize pools up to €50,000: points from spins and wagers, rewards for top ranks.\n\n<\/li>\n\t    <li>• \nLive missions: bonus rewards for live roulette and show‑game activity.\n\n<\/li>\n\t    <li>• \nSeasonal events: festive campaigns with rewards, missions, and limited offers.\n\n<\/li>\n\t    <li>• \nJackpot events: special progressive picks for big‑prize hunting.\n\n<\/li>\n\t    <li>• \nReferral rewards up to €100: bonuses for inviting friends and their activity.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Games: Slots, Live Shows, Jackpots & Fast Formats\n\n<\/h3>\n\n<p>\nWe built FatFruit with a diverse game lobby so you can match entertainment to your mood and play style. Slots are the core—from classic fruit machines to modern video slots with cascades, bonus rounds, and feature buys. If you love the feel of a real casino, our live casino runs with professional dealers and high‑energy show games. It’s easy to switch between roulette, blackjack, baccarat, and other tables, choosing limits and pace. We support progressive jackpot games where prize pools grow and every bet feels more exciting. Fans of quick decisions can enjoy crash games and instant‑win formats where outcomes unfold in seconds. We offer themed collections: new releases, popular picks, high multipliers, Hold & Win, Megaways, and more mechanics. Search and filters help you find titles by provider, features, and type in seconds. Many games are available in demo mode so you can learn the mechanics before betting. On mobile, the lobby stays smooth and intuitive, just like desktop. We keep refreshing the catalog with new titles and trending mechanics. The result is constant choice: relax on slots, feel live‑show excitement, or chase jackpots.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey Game Categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classics, video slots, Megaways, Hold & Win, Bonus Buy.\n\n<\/li>\n            <li>• \nLive casino: roulette, blackjack, baccarat, dealer show games.\n\n<\/li>\n            <li>• \nJackpots: progressive slots and dedicated jackpot collections.\n\n<\/li>\n            <li>• \nCrash games: fast pace, timing‑based decisions.\n\n<\/li>\n\t    <li>• \nInstant Win: quick sessions with immediate outcomes.\n\n<\/li>\n\t    <li>• \nRNG table games: digital roulette\/blackjack\/poker variants.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Betting Limits: From Micro Bets to High Roller Play\n\n<\/h3>\n\n<p> \nWe designed flexible bet ranges so both new and experienced players feel comfortable. On slots, you can start small and scale up at your own pace, while live tables let you choose limits that fit your bankroll. Jackpot hunting comes with wider upper ranges, and fast games help you control risk precisely each round. Exact limits may vary by game and provider, and current values are always shown before you confirm a bet.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #FFE45D;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color:#000000; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #000000; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (RNG)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus Buy Slots (bet \/ feature)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (Live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (Live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (Live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Show Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n\n\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">150<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n   <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant Win<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nFatFruit Tournaments & Leaderboards: How to Join and Win\n\n<\/h3>\n\n<p>\nWe run tournaments and leaderboards to keep participation simple: pick an event and play the qualifying games—points are tracked automatically. Most events are tied to specific slots, categories, or providers, and entry requirements are shown on the event page. Points typically depend on wagering volume—the more you bet and play, the faster your score grows. Some formats also track spin count, win streaks, or mission completion within the event timeframe. We may apply coefficients so different bet sizes and mechanics remain fairly comparable across players. Time can matter too: if scores are equal, the earlier achiever ranks higher. You can track your position in real time, seeing rank, gaps to nearby players, and time remaining. When the event ends, we lock results and show the final table in your account. Prizes are credited automatically or after a short check, depending on format and reward type. Claiming is easy: rewards appear on your balance or in the bonus area for one‑click activation. We recommend enabling notifications so you never miss a start, updates, or final results.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick Tips\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to enter: open the tournament page → tap “Join” → play qualifying games.\n\n<\/li>\n            <li>• \nHow points work: bet\/spin\/wager volume + possible tournament multipliers.\n\n<\/li>\n            <li>• \nWhat counts: bet size, spin count, speed to score, missions.\n\n<\/li>\n            <li>• \nHow to track rank: leaderboard tab shows live rank and progress.\n\n<\/li>\n\t    <li>• \nHow to get prizes: auto credit to balance or bonus area activation.\n\n<\/li>\n\t    <li>• \nHow to improve odds: play qualifying games, stay consistent, keep momentum to the finish.\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How does demo mode work?",
+                            "answer": "Demo mode lets you learn game mechanics risk‑free, then switch to real betting in one click.\n\n\n"
+                        },
+                        {
+                            "title": "How do I know if a game is part of a promo?",
+                            "answer": "Promo pages list qualifying games, and the lobby often shows promo tags on eligible titles.\n\n\n"
+                        },
+                        {
+                            "title": "Can I restrict access to certain games?",
+                            "answer": "Yes—responsible‑play tools allow restrictions, including limits and time‑out options.\n\n\n"
+                        },
+                        {
+                            "title": "How do promo codes work?",
+                            "answer": "Enter the promo code in the cashier or promo page—then the bonus activates under the stated conditions.\n\n\n"
+                        },
+                        {
+                            "title": "How fast do leaderboard results update?",
+                            "answer": "Updates are typically near real time, though some events may take a few minutes to synchronize.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
